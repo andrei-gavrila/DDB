@@ -2,7 +2,7 @@
 
 ## Entity Relationship Diagram
 
-![erd](/docs/diagrams/erd.drawio.svg)
+![erd](/docs/diagrams/entity-relationship-diagram.drawio.svg)
 
 ## Component Diagram
 
