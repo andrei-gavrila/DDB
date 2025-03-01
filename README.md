@@ -1,5 +1,9 @@
 # Distributed DataBases
 
+## Entity Relationship Diagram
+
+![erd](/docs/diagrams/erd.drawio.svg)
+
 ## Component Diagram
 
 ## Deployment Diagram
