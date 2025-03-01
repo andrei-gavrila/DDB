@@ -6,6 +6,8 @@
 
 ## Component Diagram
 
+![component-diagram](/docs/diagrams/component-diagram.drawio.svg)
+
 ## Deployment Diagram
 
 ![deployment-diagram](/docs/diagrams/deployment-diagram.drawio.svg)
