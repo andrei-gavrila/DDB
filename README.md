@@ -1,4 +1,4 @@
-# Distributed Data Bases
+# Distributed DataBases
 
 ## Component Diagram
 
